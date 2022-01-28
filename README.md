@@ -1,4 +1,4 @@
-# PlanetScale Workflow Helper scripts 
+# PlanetScale Workflow Helper scripts  - HPI Example
 
 📺 [Recording from live demo at PlanetScale Happy-Half-Hour](https://youtu.be/l3oe7srRUZw?t=610)
 
